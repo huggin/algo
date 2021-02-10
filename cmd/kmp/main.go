@@ -33,7 +33,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/shellfly/algo/algs4"
+	"github.com/huggin/algo/algs4"
 )
 
 func main() {

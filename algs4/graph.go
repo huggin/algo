@@ -3,7 +3,7 @@ package algs4
 import (
 	"fmt"
 
-	"github.com/shellfly/algo/stdin"
+	"github.com/huggin/algo/stdin"
 )
 
 // Graph ...

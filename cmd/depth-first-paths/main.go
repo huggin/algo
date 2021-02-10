@@ -35,8 +35,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/shellfly/algo/algs4"
-	"github.com/shellfly/algo/stdin"
+	"github.com/huggin/algo/algs4"
+	"github.com/huggin/algo/stdin"
 )
 
 func main() {

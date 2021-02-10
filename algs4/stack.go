@@ -1,6 +1,6 @@
 package algs4
 
-import "github.com/shellfly/algo/linklist"
+import "github.com/huggin/algo/linklist"
 
 // Stack implements a stack by linklist
 type Stack struct {

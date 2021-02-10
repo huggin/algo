@@ -1,7 +1,7 @@
 package algs4
 
 import (
-	"github.com/shellfly/algo/linklist"
+	"github.com/huggin/algo/linklist"
 )
 
 // Bag implements a bag data type by linklist
